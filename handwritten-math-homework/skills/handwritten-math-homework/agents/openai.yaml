@@ -1,0 +1,4 @@
+interface:
+  display_name: "Handwritten Math Homework"
+  short_description: "Math homework with personal handwriting profiles"
+  default_prompt: "Use $handwritten-math-homework to prepare this homework using my selected handwriting profile or the bundled default, with original problem crops, informal mathematical strokes and concise solutions; follow my established review mode."

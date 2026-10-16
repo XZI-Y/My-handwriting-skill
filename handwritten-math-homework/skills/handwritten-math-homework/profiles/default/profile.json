@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "default",
+  "display_name": "Creator default - revised HW4/HW5",
+  "status": "accepted",
+  "method": "reference-conditioning",
+  "samples": [
+    {
+      "path": "../../references/hw2-revised-page-1.png"
+    }
+  ],
+  "accepted_references": [
+    {
+      "path": "../../references/accepted-hw4-revised-page-03.png",
+      "sha256": "02fe2360ea0f6e5e6d2068de05a0f78303e1ffac537cafcb4dd135d7f36c515d"
+    },
+    {
+      "path": "../../references/accepted-hw5-revised-page-01.png",
+      "sha256": "6c92cda90420b927aa182ee17df7860421e9ea760c32ace3fd61bd133c40318d"
+    },
+    {
+      "path": "../../references/accepted-hw5-revised-page-04.png",
+      "sha256": "1ca4002e15a769d41aaf1abd64e7bffe5ec82367e342a66a4a9a17d0c8c5deb0"
+    }
+  ],
+  "style_notes": "../../references/accepted-rendering.md",
+  "approval": {
+    "evidence": "Creator accepted the revised HW4/HW5 results on 2026-10-16."
+  }
+}
